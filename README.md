@@ -28,7 +28,7 @@ A simple and intuitive To-Do application to help you manage your tasks efficient
 3. **Start the Application**:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Usage
